@@ -62,7 +62,7 @@ The following image shows the application's IndexedDB storage:
 ![Demonstration of the finished Module 19 Challenge with a IndexedDB storage named 'jate' in the browser.](./Assets/03-idb-storage.png)
 
 ## Link to deployed app
-https://git.heroku.com/immense-escarpment-21078.git
+https://immense-escarpment-21078-f29fbf62ffbe.herokuapp.com/
 
 ## Link to GitHub Repository
 https://github.com/VASUK-09/19-text-editor.git
